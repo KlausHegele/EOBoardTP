@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EOBoardTP", "EOBoardTP\EOBoardTP.csproj", "{D0F3C8BE-E888-4092-90ED-64149962594E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0F3C8BE-E888-4092-90ED-64149962594E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F3C8BE-E888-4092-90ED-64149962594E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F3C8BE-E888-4092-90ED-64149962594E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F3C8BE-E888-4092-90ED-64149962594E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC2007D5-6DC7-489D-A924-312646588406}
+	EndGlobalSection
+EndGlobal
